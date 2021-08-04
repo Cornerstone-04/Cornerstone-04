@@ -10,5 +10,5 @@ I also want to develop/improve my skills in multiple fields like software engine
 - 📫 Email: fortunecornerstone@gmail.com 
 - 📱  Instagram: @cornerstone_ephraim
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I work well with alone and even better with teams.😉
+- ⚡ Fun fact: I work well alone and even better with teams.😉
 
