@@ -1,7 +1,5 @@
 ### Well hello 🌚
 
-***“First, solve the problem. Then, write the code.” – John Johnson***
-
 I'm Cornerstone Ephraim, a Frontend Developer.
 I have a passion for designing well-functioning and responsive websites.  
 
