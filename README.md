@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qy0r7v8036c72mzm18abwjr58cnkncmjfj9nmwow&rid=giphy.gif&ct=g" width="90%" height="500"/>
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qy0r7v8036c72mzm18abwjr58cnkncmjfj9nmwow&rid=giphy.gif&ct=g" width="100%" height="500"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/cornerstone-ephraim/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -46,7 +46,7 @@ I have a passion for designing well-functioning and responsive websites and Web 
 
   ![Cornerstone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cornerstone-04&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cornerstone-04&theme=onedark_duo)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cornerstone-04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cornerstone-04&layout=compact&theme=vision-friendly-dark)](https://github.com/Cornerstone-04/github-readme-stats)
 
 
 
