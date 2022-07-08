@@ -51,4 +51,4 @@ I have a passion for designing well-functioning and responsive websites and Web 
 
 
 ## Daily Dev
-<a href="https://app.daily.dev/cornerstone_jsx"><img src="https://api.daily.dev/devcards/c12738b1708145aca0cfac8ab9574d1c.png?r=qfo" width="400" alt="Cornerstone Ephraim's Dev Card"/></a>
+<a href="https://app.daily.dev/cornerstone_jsx"><img src="https://api.daily.dev/devcards/c12738b1708145aca0cfac8ab9574d1c.png?r=i17" width="400" alt="Cornerstone Ephraim's Dev Card"/></a>
