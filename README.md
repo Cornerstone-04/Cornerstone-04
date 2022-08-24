@@ -28,7 +28,6 @@ I have a passion for designing well-functioning and responsive websites and Web 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
@@ -47,8 +46,3 @@ I have a passion for designing well-functioning and responsive websites and Web 
   ![Cornerstone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cornerstone-04&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cornerstone-04&theme=onedark_duo)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cornerstone-04&layout=compact&theme=vision-friendly-dark)](https://github.com/Cornerstone-04/github-readme-stats)
-
-
-
-## Daily Dev
-<a href="https://app.daily.dev/cornerstone_jsx"><img src="https://api.daily.dev/devcards/c12738b1708145aca0cfac8ab9574d1c.png?r=i17" width="300" alt="Cornerstone Ephraim's Dev Card"/></a>
