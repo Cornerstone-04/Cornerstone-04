@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <tr>
     <td valign="center">
       <p>
-        <h3>Hello👋🏾</h3>
+        <br/>
         🌍 I'm based in Lagos, Nigeria
         <br/>
         ✉️ You can contact me at <a href="mailto:fortunecornerstone@gmail.com">fortunecornerstone@gmail.com</a>
@@ -22,11 +22,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
         <br/>
         <h3>Twitter</h3>
         <a href="https://twitter.com/cornerstone_jsx">
-          <img src="https://img.shields.io/twitter/follow/cornerstone_jsx?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
+          <img src="https://img.shields.io/twitter/follow/cornerstone_jsx?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/>
+        </a>
+        <h3>Favourite Quotes</h3>
+        <blockquote>
+           "Dreams won't work unless you do." ~ John C. Maxwell
+        </blockquote>
+        <blockquote>
+           "Be as you wish to seem." ~ Socrates
+        </blockquote>
+        <blockquote>
+           "First, solve the problem. Then, write the code." ~ John Johnson
+        </blockquote>
        </p>
     </td>
     <td>
-      <a href="https://app.daily.dev/cornerstone_jsx"><img src="https://api.daily.dev/devcards/c12738b1708145aca0cfac8ab9574d1c.png?r=cq1" width="350" alt="Cornerstone Ephraim's Dev Card"/></a>
+      <a href="https://app.daily.dev/cornerstone_jsx"><img src="https://api.daily.dev/devcards/c12738b1708145aca0cfac8ab9574d1c.png?r=cq1" width="400" alt="Cornerstone Ephraim's Dev Card"/></a>
     </td>
   </tr>
 </table>
@@ -147,7 +158,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## Connect with me:
 
-<p align="center">
+<p align="left">
         <a href="https://www.linkedin.com/in/cornerstone-ephraim"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
         <a href="https://twitter.com/cornerstone_jsx"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
         <a href="https://www.instagram.com/thecornerstoneephraim"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
