@@ -1,49 +1,155 @@
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qy0r7v8036c72mzm18abwjr58cnkncmjfj9nmwow&rid=giphy.gif&ct=g" width="100%" height="500"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/cornerstone-ephraim/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- 
-  <a href="https://twitter.com/cornerstone_jsx">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=Cornerstone-04&style=flat-square&color=blue" alt=""/>
-
-</div>
-
-# Hi there 👋🏽
-
-I'm Cornerstone Ephraim, a highly motivated entry-level Front-End Developer with great interpersonal skills.
-I have a passion for designing well-functioning and responsive websites and Web Apps.  
-
-- ⚛ Currently a React.js developer.
-- 🤔 I need help with Node.js.
-- 📫 Email: fortunecornerstone@gmail.com
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cornerstone Ephraim
+===========================================================================================================================================
 
 
+<table align="center">
+  <tr>
+    <td valign="center">
+      <p>
+        <h3>Hello👋🏾</h3>
+        🌍 I'm based in Lagos, Nigeria
+        <br/>
+        ✉️ You can contact me at <a href="mailto:fortunecornerstone@gmail.com">fortunecornerstone@gmail.com</a>
+        <br/>
+        🧠 I'm learning SolidJS & VueJS
+        <br/>
+        📸 I snap and edit nice <a href="https://instagram.com/realcornerstone">pictures<a/>.
+        <br/>
+        🎥 I'm a content creator on <a href="https://instagram.com/thecornerstoneephraim">Instagram<a/>.
+        <br/>
+        💞️ Follow me on github to stay tuned on my amazing projects.
+        <br/>
+        <br/>
+        <h3>Twitter</h3>
+        <a href="https://twitter.com/cornerstone_jsx">
+          <img src="https://img.shields.io/twitter/follow/cornerstone_jsx?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
+       </p>
+    </td>
+    <td>
+      <a href="https://app.daily.dev/cornerstone_jsx"><img src="https://api.daily.dev/devcards/c12738b1708145aca0cfac8ab9574d1c.png?r=cq1" width="350" alt="Cornerstone Ephraim's Dev Card"/></a>
+    </td>
+  </tr>
+</table>
 
-## :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"  title="TAILWIND" alt="TAILWIND" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="Wordpress" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  title="VSCode" alt="VSCode" width="60" height="60"/>&nbsp;
-</div>
 
 
-## My Stats
+## My Github Stats && Technologies I use:
+<table>
+  <tr>
+    <td>
+     <a href="http://www.github.com/Cornerstone-04"><img src="https://github-readme-stats.vercel.app/api?username=Cornerstone-04&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Cornerstone-04's GitHub stats" /></a>
+    </td>
+    <td>
+      <a href="http://www.github.com/Cornerstone-04"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cornerstone-04&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/Cornerstone-04" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cornerstone-04&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+    </td>
+  <tr>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+        </a>
+        <p align="center">JavaScript</p>
+      </p>
+    </td>
+    <td>           
+      <p align="center">
+        <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
+        <p align="center">Gatsby</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+        </a>
+        <p align="center">HTML5</p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>            
+      <p align="center">
+        <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+        <p align="center">GraphQL</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
+      </a>
+        <p align="center">Redux</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+      </a>
+        <p align="center">CSS</p>
+      </p>
+    </td>
+  </tr>
 
-  ![Cornerstone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cornerstone-04&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cornerstone-04&theme=onedark_duo)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cornerstone-04&layout=compact&theme=vision-friendly-dark)](https://github.com/Cornerstone-04/github-readme-stats)
+  <tr>
+    <td>      
+      <p align="center">
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+        </a>
+        <p align="center">Tailwind</p>
+      </p>
+    </td>
+   <td>
+      <p align="center">
+        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
+      </a>
+        <p align="center">SASS</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+          <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+          </a>
+        <p align="center">Firebase</p>
+      </p>      
+    </td>
+  </tr>
+
+  <tr>
+     <td>
+      <p align="center">
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+        </a>
+        <p align="center">Figma</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+        </a>
+        <p align="center">React</p>
+      </p>
+    </td>
+  </tr>
+</table>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Cornerstone-04&bg_color=1c1917&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
+
+## Connect with me:
+
+<p align="center">
+        <a href="https://www.linkedin.com/in/cornerstone-ephraim"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+        <a href="https://twitter.com/cornerstone_jsx"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+        <a href="https://www.instagram.com/thecornerstoneephraim"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+        <a href="https://wa.me/2348133285405"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
+      </p>
