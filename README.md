@@ -5,7 +5,7 @@ Hi, I'm Cornerstone Ephraim.
 
 <!-- twitter && linkedin -->
 <p align="left">
-  <a href="https://www.twitter.com/victorekea" target="_blank" rel="noreferrer">
+  <a href="https://www.twitter.com/cornerstone_jsx" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/cornerstone_jsx?logo=twitter&style=for-the-badge&color=0077B5&labelColor=000000">
   </a>
   <a href="https://www.linkedin.com/in/cornerstone-ephraim">
