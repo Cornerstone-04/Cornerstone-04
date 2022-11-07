@@ -159,7 +159,7 @@ I spend most of my time learning new things and trying to perfect my skills.
     </td>
     <td width="333px">
     <p align="center">
-        <a href="https://netlify.app/" target="_blank" rel="noreferrer" >
+        <a href="https://www.notion.so/" target="_blank" rel="noreferrer" >
           <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="40" alt="notion"/>
         </a>
         <p align="center">Notion</p>
