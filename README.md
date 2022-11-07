@@ -1,7 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=Cornerstone-04&style=flat-square&color=6cd63e">
 
-Hi, I'm Cornerstone Ephraim.
-===========================================================================================================================================
+## About Me
 
 <!-- twitter && linkedin -->
 <p align="left">
