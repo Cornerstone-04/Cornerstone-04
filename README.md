@@ -18,7 +18,7 @@ I am a highly motivated entry-level Frontend developer with excellent interperso
 skilled in writing well-designed, testable, and efficient code using current best practices in web
 development.
 
-Currently work with JavaScript, ReactJS and GatsbyJS. For styling, I'm a big SCSS and TailwindCSS fan😁.
+I currently work with JavaScript, ReactJS and GatsbyJS, and for styling, I'm a big SCSS and TailwindCSS fan😁.
 I spend most of my time learning new things and trying to perfect my skills.
 
 <h3>Favourite Quotes</h3>
