@@ -38,18 +38,15 @@ I spend most of my time learning new things and trying to perfect my skills.
 - Worked with <a href="https://stutern.com/">Stutern</a> to make modifications to the web layout and develop pages for new content.
 - Currently working with a team to develop a general school portal website.
 
-<!-- Contribute -->
+<!-- Contribute 
 ## Feel free to contribute
 <table>
   <tr>
     <td>
       <a href="https://github.com/Cornerstone-04/textmi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cornerstone-04&repo=textmi&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1A2232&hide_border=true" /></a>
     </td>
-    <!-- <td>
-      <a href="https://github.com/Dun-sin/Code-Magic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Code-Magic" /></a>
-    </td> -->
   </tr>
-</table>
+</table>-->
 
 
 <!-- languages && tools -->
@@ -185,8 +182,8 @@ I spend most of my time learning new things and trying to perfect my skills.
 ## Github Stats
 
 <table>
-<a href="https://github.com/Cornerstone-04"><img src="https://activity-graph.herokuapp.com/graph?username=Cornerstone-04&bg_color=1A2232&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</a>
+<!-- <a href="https://github.com/Cornerstone-04"><img src="https://activity-graph.herokuapp.com/graph?username=Cornerstone-04&bg_color=1A2232&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a> -->
 <tr>
     <td>
      <a href="http://github.com/Cornerstone-04"><img src="https://github-readme-stats.vercel.app/api?username=Cornerstone-04&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1A2232&hide_border=true&show_icons=true" alt="Cornerstone-04's GitHub stats" /></a>
