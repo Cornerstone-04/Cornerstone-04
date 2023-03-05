@@ -15,6 +15,7 @@
 </p>
 
 <!-- introduction -->
+
 I am a highly motivated entry-level Frontend developer with excellent interpersonal skills. I am
 skilled in writing well-designed, testable, and efficient code using current best practices in web
 development.
@@ -34,11 +35,13 @@ I spend most of my time learning new things and trying to perfect my skills.
 </blockquote>
 
 <!-- work -->
+
 ## Work
+
 - Worked with <a href="https://stutern.com/">Stutern</a> to make modifications to the web layout and develop pages for new content.
 - Currently working with a team to develop a general school portal website.
 
-<!-- Contribute 
+<!-- Contribute
 ## Feel free to contribute
 <table>
   <tr>
@@ -48,8 +51,8 @@ I spend most of my time learning new things and trying to perfect my skills.
   </tr>
 </table>-->
 
-
 <!-- languages && tools -->
+
 ## Languages and Tools
 
 <table>
@@ -179,11 +182,10 @@ I spend most of my time learning new things and trying to perfect my skills.
 </table>
 
 <!-- github stats -->
+
 ## Github Stats
 
 <table>
-<!-- <a href="https://github.com/Cornerstone-04"><img src="https://activity-graph.herokuapp.com/graph?username=Cornerstone-04&bg_color=1A2232&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</a> -->
 <tr>
     <td>
      <a href="http://github.com/Cornerstone-04"><img src="https://github-readme-stats.vercel.app/api?username=Cornerstone-04&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1A2232&hide_border=true&show_icons=true" alt="Cornerstone-04's GitHub stats" /></a>
@@ -196,3 +198,6 @@ I spend most of my time learning new things and trying to perfect my skills.
     </td>
   </tr>
 </table>
+<div>
+  <a href="http://www.github.com/Cornerstone-04"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cornerstone-04&bg_color=1A2232&color=ffffff&line=0891b2&point=ffffff&area_color=1A2232&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</div>
