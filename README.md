@@ -5,12 +5,11 @@
 <!-- twitter && linkedin && coffee-->
 <p align="left">
   <a href="https://www.twitter.com/4th_ephraim" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/4th_ephraim?logo=twitter&style=for-the-badge&color=0077B5&labelColor=15202b">
+    <img src="https://img.shields.io/twitter/follow/4th_ephraim?color=15202b&style=social">
   </a>
   <a href="https://www.linkedin.com/in/cornerstone-ephraim">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <br/>
   <a href="https://www.buymeacoffee.com/the_cornerstone"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" alt="support me by buying me a coffee" /> <a/>
 </p>
 
