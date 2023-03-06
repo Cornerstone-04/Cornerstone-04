@@ -83,8 +83,8 @@ I spend most of my time learning new things and trying to perfect my skills.
   <tr>
     <td width="333px">
       <p align="center">
-        <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="40" height="40" alt="GraphQL" /></a>
-        <p align="center">GraphQL</p>
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40" alt="NextJS" /></a>
+        <p align="center">NextJS</p>
       </p>
     </td>
     <td width="333px">
