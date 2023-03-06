@@ -4,14 +4,14 @@
 
 <!-- twitter && linkedin && coffee-->
 <p align="left">
-  <a href="https://www.twitter.com/cornerstone_jsx" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/cornerstone_jsx?logo=twitter&style=for-the-badge&color=0077B5&labelColor=000000">
+  <a href="https://www.twitter.com/4th_ephraim" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/4th_ephraim?logo=twitter&style=for-the-badge&color=0077B5&labelColor=000000">
   </a>
   <a href="https://www.linkedin.com/in/cornerstone-ephraim">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <br/>
-  <a href="https://www.buymeacoffee.com/cornerstonejsx"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" alt="support me by buying me a coffee" /> <a/>
+  <a href="https://www.buymeacoffee.com/the_cornerstone"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" alt="support me by buying me a coffee" /> <a/>
 </p>
 
 <!-- introduction -->
