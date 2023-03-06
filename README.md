@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=Cornerstone-04&style=flat-square&color=1A2232">
+<img src="https://komarev.com/ghpvc/?username=Cornerstone-04&style=flat-square&color=15202b">
 
 ## About Me
 
