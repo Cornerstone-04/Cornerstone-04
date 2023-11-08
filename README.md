@@ -198,5 +198,5 @@ I spend most of my time learning new things and trying to perfect my skills.
   </tr>
 </table>
 <div>
-  <a href="http://www.github.com/Cornerstone-04"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cornerstone-04&bg_color=15202b&color=ffffff&line=0891b2&point=ffffff&area_color=1A2232&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  <a href="http://www.github.com/Cornerstone-04"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Cornerstone-04&bg_color=15202b&color=ffffff&line=0891b2&point=ffffff&area_color=1A2232&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
