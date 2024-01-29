@@ -15,23 +15,7 @@
 
 <!-- introduction -->
 
-I am a highly motivated entry-level Frontend developer with excellent interpersonal skills. I am
-skilled in writing well-designed, testable, and efficient code using current best practices in web
-development.
-
-I currently work with JavaScript, ReactJS and GatsbyJS, and for styling, I'm a big SCSS and TailwindCSS fan😁.
-I spend most of my time learning new things and trying to perfect my skills.
-
-<h3>Favourite Quotes</h3>
-<blockquote>
-    "Dreams won't work unless you do." ~ John C. Maxwell
-</blockquote>
-<blockquote>
-    "Be as you wish to seem." ~ Socrates
-</blockquote>
-<blockquote>
-    "First, solve the problem. Then, write the code." ~ John Johnson
-</blockquote>
+Highly motivated entry-level front-end developer, known for excellent interpersonal skills and a strong aptitude for coding. Proficient in creating well-designed, testable, and efficient code, adhering to current best practices in web development. Demonstrates a talent for quickly learning new technologies, with a particular focus on modern frameworks like React, Vue, and Gatsby.
 
 <!-- work -->
 
