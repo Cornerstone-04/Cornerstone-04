@@ -17,23 +17,6 @@
 
 Highly motivated entry-level front-end developer, known for excellent interpersonal skills and a strong aptitude for coding. Proficient in creating well-designed, testable, and efficient code, adhering to current best practices in web development. Demonstrates a talent for quickly learning new technologies, with a particular focus on modern frameworks like React, Vue, and Gatsby.
 
-<!-- work -->
-
-## Work
-
-- Worked with <a href="https://stutern.com/">Stutern</a> to make modifications to the web layout and develop pages for new content.
-- Currently working with a team to develop a general school portal website.
-
-<!-- Contribute
-## Feel free to contribute
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Cornerstone-04/textmi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cornerstone-04&repo=textmi&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1A2232&hide_border=true" /></a>
-    </td>
-  </tr>
-</table>-->
-
 <!-- languages && tools -->
 
 ## Languages and Tools
