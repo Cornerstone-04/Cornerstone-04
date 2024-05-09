@@ -53,14 +53,14 @@ Highly motivated entry-level front-end developer, known for excellent interperso
         <p align="center">NextJS</p>
       </p>
     </td>
-    <td width="333px">
+ <td width="333px">
       <p align="center">
-        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="40" height="40" alt="Redux" />
-      </a>
-        <p align="center">Redux</p>
+        <a href="https://docs.pmnd.rs/zustand/getting-started/introduction" target="_blank" rel="noreferrer">
+<!--           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/zustand-colored.svg" width="40" height="40" alt="Zustand" /> -->
+        <p align="center">Zustand</p>
+        </a>
       </p>
-    </td>
+    </td> 
     <td width="333px">
       <p align="center">
           <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
