@@ -56,8 +56,7 @@ Highly motivated entry-level front-end developer, known for excellent interperso
  <td width="333px">
       <p align="center">
         <a href="https://docs.pmnd.rs/zustand/getting-started/introduction" target="_blank" rel="noreferrer">
-<!--           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/zustand-colored.svg" width="40" height="40" alt="Zustand" /> -->
-        <p align="center">Zustand</p>
+           Zustand
         </a>
       </p>
     </td> 
