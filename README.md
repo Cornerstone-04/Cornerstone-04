@@ -159,7 +159,7 @@ Highly motivated entry-level front-end developer, known for excellent interperso
       <a href="http://github.com/Cornerstone-04"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cornerstone-04&stroke=ffffff&background=15202b&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
     <td>
-      <a href="https://github.com/Cornerstone-04" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cornerstone-04&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=15202b&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="100%" /></a>
+      <a href="https://github.com/Cornerstone-04" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cornerstone-04&langs_count=3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=15202b&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="100%" /></a>
     </td>
   </tr>
 </table>
