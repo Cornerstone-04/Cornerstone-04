@@ -55,9 +55,10 @@ Highly motivated entry-level front-end developer, known for excellent interperso
     </td>
  <td width="333px">
       <p align="center">
-        <a href="https://docs.pmnd.rs/zustand/getting-started/introduction" target="_blank" rel="noreferrer">
+        <a href="https://docs.pmnd.rs/zustand/" target="_blank" rel="noreferrer"><img src="https://github.com/pmndrs/zustand/blob/main/examples/demo/public/favicon.ico" width="40" height="40" alt="Zustand" /></a>
+        <p align="center">
            Zustand
-        </a>
+        </p>
       </p>
     </td> 
     <td width="333px">
