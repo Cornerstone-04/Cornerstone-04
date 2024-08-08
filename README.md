@@ -114,6 +114,14 @@ Frontend Engineer with excellent interpersonal skills and strong coding aptitude
         </a>
         <p align="center">HTML5</p>
     </td>
+    <td width="333px">
+      <p align="center">
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
+        </a>
+        <p align="center">TypeScript</p>
+      </p>
+    </td>
   </tr>
 </table>
 
