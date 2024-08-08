@@ -15,7 +15,7 @@
 
 <!-- introduction -->
 
-Highly motivated entry-level front-end developer, known for excellent interpersonal skills and a strong aptitude for coding. Proficient in creating well-designed, testable, and efficient code, adhering to current best practices in web development. Demonstrates a talent for quickly learning new technologies, with a particular focus on modern frameworks like React, Vue, and Gatsby.
+Frontend Engineer with excellent interpersonal skills and strong coding aptitude. Proficient in creating well-designed, testable, and efficient code using modern frameworks.
 
 <!-- languages && tools -->
 
@@ -113,36 +113,6 @@ Highly motivated entry-level front-end developer, known for excellent interperso
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
         </a>
         <p align="center">HTML5</p>
-    </td>
-    <td width="333px">
-    <p align="center">
-        <a href="https://npmjs.org/" target="_blank" rel="noreferrer" >
-          <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="40" alt="npm"/>
-        </a>
-        <p align="center">NPM</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="333px">
-    <p align="center">
-        <a href="https://netlify.app/" target="_blank" rel="noreferrer" >
-          <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" height="40" alt="netlify"/>
-        </a>
-        <p align="center">Netlify</p>
-    </td>
-    <td width="333px">
-    <p align="center">
-        <a href="https://vercel.com/" target="_blank" rel="noreferrer" >
-          <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="vercel"/>
-        </a>
-        <p align="center">Vercel</p>
-    </td>
-    <td width="333px">
-    <p align="center">
-        <a href="https://www.notion.so/" target="_blank" rel="noreferrer" >
-          <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="40" alt="notion"/>
-        </a>
-        <p align="center">Notion</p>
     </td>
   </tr>
 </table>
