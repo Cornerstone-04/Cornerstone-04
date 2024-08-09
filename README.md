@@ -2,17 +2,6 @@
 
 ## About Me
 
-<!-- twitter && linkedin && coffee-->
-<p align="left">
-  <a href="https://www.twitter.com/4th_ephraim" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/4th_ephraim?color=15202b&style=social">
-  </a>
-  <a href="https://www.linkedin.com/in/cornerstone-ephraim">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.buymeacoffee.com/the_cornerstone"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" alt="support me by buying me a coffee" /> <a/>
-</p>
-
 <!-- introduction -->
 
 Frontend Engineer with excellent interpersonal skills and strong coding aptitude. Proficient in creating well-designed, testable, and efficient code using modern frameworks.
