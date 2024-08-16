@@ -1,14 +1,6 @@
-<img src="https://komarev.com/ghpvc/?username=Cornerstone-04&style=flat-square&color=15202b">
-
-## About Me
-
-<!-- introduction -->
-
-Frontend Engineer with excellent interpersonal skills and strong coding aptitude. Proficient in creating well-designed, testable, and efficient code using modern frameworks.
+# Frontend Engineer
 
 <!-- languages && tools -->
-
-## Languages and Tools
 
 <table>
   <tr>
