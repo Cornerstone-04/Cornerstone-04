@@ -12,10 +12,12 @@
         <p align="center">JavaScript</p>
       </p>
     </td>
-    <td width="333px">
+   <td width="333px">
       <p align="center">
-        <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="40" height="40" alt="Gatsby" /></a>
-        <p align="center">Gatsby</p>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
+        </a>
+        <p align="center">TypeScript</p>
       </p>
     </td>
     <td width="333px">
@@ -48,59 +50,6 @@
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40" alt="Firebase" />
           </a>
         <p align="center">Firebase</p>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="333px">
-      <p align="center">
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" />
-        </a>
-        <p align="center">Tailwind</p>
-      </p>
-    </td>
-   <td width="333px">
-      <p align="center">
-        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" height="40" alt="Sass" />
-      </a>
-        <p align="center">SASS</p>
-      </p>
-    </td>
-    <td width="333px">
-      <p align="center">
-        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" />
-      </a>
-        <p align="center">CSS</p>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-     <td width="333px">
-      <p align="center">
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" />
-        </a>
-        <p align="center">Figma</p>
-      </p>
-    </td>
-    <td width="333px">
-       <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
-        </a>
-        <p align="center">HTML5</p>
-    </td>
-    <td width="333px">
-      <p align="center">
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
-        </a>
-        <p align="center">TypeScript</p>
       </p>
     </td>
   </tr>
