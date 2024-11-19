@@ -30,12 +30,12 @@
      </td>
   </tr>
   <tr>
-    <td width="333px">
+<!--     <td width="333px">
       <p align="center">
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40" alt="NextJS" /></a>
         <p align="center">NextJS</p>
       </p>
-    </td>
+    </td> -->
  <td width="333px">
       <p align="center">
         <a href="https://docs.pmnd.rs/zustand/" target="_blank" rel="noreferrer"><img src="https://github.com/pmndrs/zustand/blob/main/examples/demo/public/favicon.ico" width="40" height="40" alt="Zustand" /></a>
