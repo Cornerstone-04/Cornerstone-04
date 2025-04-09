@@ -4,14 +4,6 @@
 
 <table>
   <tr>
-    <td width="333px">
-      <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
-        </a>
-        <p align="center">JavaScript</p>
-      </p>
-    </td>
    <td width="333px">
       <p align="center">
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -28,6 +20,14 @@
         <p align="center">React</p>
       </p>
      </td>
+  <td width="333px">
+      <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="JavaScript" />
+        </a>
+        <p align="center">React Native</p>
+      </p>
+    </td>
   </tr>
   <tr>
 <!--     <td width="333px">
@@ -38,18 +38,18 @@
     </td> -->
  <td width="333px">
       <p align="center">
-        <a href="https://docs.pmnd.rs/zustand/" target="_blank" rel="noreferrer"><img src="https://github.com/pmndrs/zustand/blob/main/examples/demo/public/favicon.ico" width="40" height="40" alt="Zustand" /></a>
+        <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" /></a>
         <p align="center">
-           Zustand
+           NodeJS
         </p>
       </p>
     </td> 
     <td width="333px">
       <p align="center">
-          <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40" alt="Firebase" />
+          <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" />
           </a>
-        <p align="center">Firebase</p>
+        <p align="center">PostgreSQL</p>
       </p>
     </td>
   </tr>
