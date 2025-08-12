@@ -44,14 +44,14 @@
         </p>
       </p>
     </td> 
-    <td width="333px">
+<!--     <td width="333px">
       <p align="center">
           <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" />
           </a>
         <p align="center">PostgreSQL</p>
       </p>
-    </td>
+    </td> -->
   <td width="333px">
       <p align="center">
           <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
