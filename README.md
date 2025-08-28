@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-   <td width="333px">
+   <td width="250px">
       <p align="center">
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
@@ -12,7 +12,7 @@
         <p align="center">TypeScript</p>
       </p>
     </td>
-    <td width="333px">
+    <td width="250px">
     <p align="center">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
@@ -20,39 +20,15 @@
         <p align="center">ReactJS</p>
       </p>
      </td>
-  <td width="333px">
+  <td width="250px">
       <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="JavaScript" />
+        <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="JavaScript" />
         </a>
-        <p align="center">React Native</p>
+        <p align="center">TailwindCSS</p>
       </p>
     </td>
-  </tr>
-  <tr>
-<!--     <td width="333px">
-      <p align="center">
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40" alt="NextJS" /></a>
-        <p align="center">NextJS</p>
-      </p>
-    </td> -->
- <td width="333px">
-      <p align="center">
-        <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" /></a>
-        <p align="center">
-           NodeJS
-        </p>
-      </p>
-    </td> 
-<!--     <td width="333px">
-      <p align="center">
-          <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" />
-          </a>
-        <p align="center">PostgreSQL</p>
-      </p>
-    </td> -->
-  <td width="333px">
+  <td width="250px">
       <p align="center">
           <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40" alt="NextJS" />
