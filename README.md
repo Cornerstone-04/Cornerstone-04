@@ -22,7 +22,7 @@
 
 <div style="margin-bottom: 16px">
    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Cornerstone-04&theme=windows-dark&card_width=1000&card_height=250&fire=EB5454&background=15202B&border=0891B2&ring=0891B2&dates=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=0891B2&sideLabels=FFFFFF&sideNums=FFFFFF&stroke=FFFFFF" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Cornerstone-04&theme=windows-dark&card_width=1000&card_height=250&fire=0891B2&background=15202B&ring=0891B2&dates=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=0891B2&sideLabels=FFFFFF&sideNums=FFFFFF&stroke=FFFFFF&hide_border=true" alt="GitHub Streak" />
     </a>
 </div>
 
