@@ -12,10 +12,8 @@
 - ⭐️ Always open to teaming up on fun projects and experiments
 - 💬 Curious about code, design, or side projects? Let’s talk!
 
-<p align="center">
-   📫 You can reach me here: <a href="mailto:fortunecornerstone@gmail.com">fortunecornerstone@gmail.com
-   </a>
-</p>
+📫 You can reach me here: fortunecornerstone@gmail.com
+   
 
 <p align="center" style="margin-top: 48px">
   <h1 align="center">GitHub Stats</h1>
