@@ -13,10 +13,9 @@
 - 💬 Curious about code, design, or side projects? Let’s talk!
 
 📫 You can reach me here: fortunecornerstone@gmail.com
-   
 
-<p align="center" style="margin-top: 48px">
-  <h1 align="center">GitHub Stats</h1>
+<p style="margin-top: 48px">
+  <h2>GitHub Stats</h2>
 </p>
 
 <div align="center" style="margin-bottom: 16px">
