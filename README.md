@@ -20,7 +20,7 @@
   <h2>GitHub Stats</h2>
 </p>
 
-<div style="margin-bottom: 16px">
+<!-- <div style="margin-bottom: 16px">
    <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Cornerstone-04&theme=windows-dark&card_width=1000&fire=0891B2&background=15202B&ring=0891B2&dates=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=0891B2&sideLabels=FFFFFF&sideNums=FFFFFF&stroke=FFFFFF&hide_border=true" alt="GitHub Streak" />
     </a>
@@ -30,4 +30,4 @@
    <a href="http://www.github.com/Cornerstone-04">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cornerstone-04&custom_title=Cornerstone's%20GitHub%20Activity%20Graph&bg_color=15202b&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="GitHub Commits Graph" />
    </a>
-</div> 
+</div>  -->
