@@ -16,9 +16,9 @@
 
 📫 You can reach me here: fortunecornerstone@gmail.com
 
-<p style="margin-top: 48px">
+<!-- <p style="margin-top: 48px">
   <h2>GitHub Stats</h2>
-</p>
+</p> -->
 
 <!-- <div style="margin-bottom: 16px">
    <a href="https://git.io/streak-stats">
