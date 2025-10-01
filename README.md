@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-   <a href="https://cornerstone-ephraim.vercel.app">Portfolio</a> | 
-   <a href="https://cornerstone-ephraim.vercel.app/#projects">Projects</a> | 
+   <a href="https://cornerstoneephraim.vercel.app/">Portfolio</a> | 
+   <a href="https://cornerstoneephraim.vercel.app/projects">Projects</a> | 
    <a href="https://linkedin.com/in/cornerstone-ephraim">LinkedIn</a> |
-   <a href="https://linkedin.com/in/cornerstone-ephraim">Resume</a>
+   <a href="https://cornerstoneephraim.vercel.app/about">Resume</a>
 </p>
 
 - 🔭 Turning cool ideas into sleek, interactive web experiences
