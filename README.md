@@ -10,11 +10,9 @@
    <a href="https://cornerstoneephraim.vercel.app/about">Resume</a>
 </p>
 
-- 🔭 Turning cool ideas into sleek, interactive web experiences
-- ⭐️ Always open to teaming up on fun projects and experiments
-- 💬 Curious about code, design, or side projects? Let’s talk!
-
-📫 You can reach me here: fortunecornerstone@gmail.com
+- Turning cool ideas into sleek, interactive web experiences
+- Always open to teaming up on fun projects and experiments
+- Curious about code, design, or side projects? Let’s talk!
 
 <!-- <p style="margin-top: 48px">
   <h2>GitHub Stats</h2>
